@@ -1,7 +1,7 @@
 .header {
   border-style:solid;
-  background-color: #000000;
-  color:#FFFFFF;
+  background-color: #979392;
+  color:#000000;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -10,8 +10,8 @@
 }
 .footer {
   border-style:solid;
-  background-color: #000000;
-  color:#FFFFFF;
+  background-color: #979392;
+  color:#000000;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -20,8 +20,8 @@
 }
   .content {
     border-style:solid;
-    background-color: #000000;
-    color:#FFFFFF;
+    background-color: #979392;
+    color:#000000;
     display: block;
     text-align: center;
     text-decoration-line: underline;
